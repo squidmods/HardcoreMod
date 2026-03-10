@@ -3,7 +3,7 @@
   "InterstitialID": "ca-app-pub-7497468228437677/6385317120",
   "RewardAds": "ca-app-pub-7497468228437677/3465800425",
   "AppOpen": "ca-app-pub-7497468228437677/6091963761",
-  "BannerEnabled": false,
+  "BannerEnabled": true,
   "InterstitialEnabled": false,
   "RewardEnabled": false,
   "AppOpenEnabled": false,
