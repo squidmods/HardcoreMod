@@ -1,8 +1,14 @@
 {
-  "profile": {
-    "BannerID": "ca-app-pub-7497468228437677/3950725474",
-    "InterstitialID": "ca-app-pub-7497468228437677/6385317120",
-    "RewardAds": "ca-app-pub-7497468228437677/3465800425",
-    "AppOpen": "ca-app-pub-7497468228437677/6091963761"
-  }
+  "BannerID": "ca-app-pub-7497468228437677/3950725474",
+  "InterstitialID": "ca-app-pub-7497468228437677/6385317120",
+  "RewardAds": "ca-app-pub-7497468228437677/3465800425",
+  "AppOpen": "ca-app-pub-7497468228437677/6091963761",
+  "BannerEnabled": true,
+  "InterstitialEnabled": true,
+  "RewardEnabled": true,
+  "AppOpenEnabled": true,
+  "InterstitialCooldownSeconds": 180,
+  "RewardCooldownSeconds": 0,
+  "AppOpenCooldownSeconds": 0,
+  "BannerRefreshSeconds": 10
 }
