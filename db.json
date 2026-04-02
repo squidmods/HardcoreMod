@@ -9,6 +9,5 @@
   "AppOpenEnabled": true,
   "InterstitialCooldownSeconds": 0,
   "RewardCooldownSeconds": 0,
-  "AppOpenCooldownSeconds": 0,
-  "BannerRefreshSeconds": 45
+  "AppOpenCooldownSeconds": 0
 }
